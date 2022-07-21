@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seea/static/css/main.dd1a9ca5.chunk.css",
+    "main.js": "/seea/static/js/main.a1664e8b.chunk.js",
+    "main.js.map": "/seea/static/js/main.a1664e8b.chunk.js.map",
+    "runtime-main.js": "/seea/static/js/runtime-main.dcda94b3.js",
+    "runtime-main.js.map": "/seea/static/js/runtime-main.dcda94b3.js.map",
+    "static/js/2.8c166dbd.chunk.js": "/seea/static/js/2.8c166dbd.chunk.js",
+    "static/js/2.8c166dbd.chunk.js.map": "/seea/static/js/2.8c166dbd.chunk.js.map",
+    "static/js/3.e8cfa1ae.chunk.js": "/seea/static/js/3.e8cfa1ae.chunk.js",
+    "static/js/3.e8cfa1ae.chunk.js.map": "/seea/static/js/3.e8cfa1ae.chunk.js.map",
+    "index.html": "/seea/index.html",
+    "static/css/main.dd1a9ca5.chunk.css.map": "/seea/static/css/main.dd1a9ca5.chunk.css.map",
+    "static/js/2.8c166dbd.chunk.js.LICENSE.txt": "/seea/static/js/2.8c166dbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcda94b3.js",
+    "static/js/2.8c166dbd.chunk.js",
+    "static/css/main.dd1a9ca5.chunk.css",
+    "static/js/main.a1664e8b.chunk.js"
+  ]
+}
